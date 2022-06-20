@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Test App</string>
+    <string name="start_button">START</string>
+    <string name="manual_button">MANUAL</string>
+    <string name="title_text1">MINE</string>
+    <string name="title_text2">SWEEPER</string>
+</resources>
